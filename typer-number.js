@@ -2,6 +2,6 @@
 const meuNumero = 3;
 const primeiroNumero = 1;
 const segundoNumero = 2;
-const operacaoMatematica = PrimeiroNumero + segundoNumero;
+const operacaomatematica = primeiroNumero + segundoNumero;
 
 console.log(operacaomatematica)
